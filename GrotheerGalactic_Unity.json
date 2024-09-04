@@ -1,0 +1,14 @@
+{
+  "version": "2022.3.27f1",
+  "url": "https://download.unity3d.com/download_unity/73effa14754f/Windows64EditorInstaller/UnitySetup64-2022.3.27f1.exe",
+  "bin": [
+    "Unity/Editor/Unity.exe"
+  ],
+  "shortcuts": [
+    [
+      "Unity/Editor/Unity.exe",
+      "Unity"
+    ]
+  ],
+  "pre_install": "install.ps1"
+}
