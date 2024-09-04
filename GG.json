@@ -10,5 +10,5 @@
       "Unity"
     ]
   ],
-  "pre_install": "install.ps1"
+  "pre_install": ".\\install.ps1"
 }
