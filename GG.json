@@ -1,7 +1,6 @@
 {
   "version": "2022.3.27f1",
   "url": "https://download.unity3d.com/download_unity/73effa14754f/Windows64EditorInstaller/UnitySetup64-2022.3.27f1.exe",
-  "hash": "e4248aeec7b6985c466f977a501d5341301d242565727f6766b39abd983f9a34",
   "bin": [
     "Unity/Editor/Unity.exe"
   ],
