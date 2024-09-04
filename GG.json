@@ -10,5 +10,5 @@
       "Unity"
     ]
   ],
-  "pre_install": ".\\install.ps1"
+  "pre_install": "Powershell.exe -executionpolicy remotesigned -File  \"install.ps1\""
 }
